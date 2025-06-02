@@ -163,7 +163,7 @@
     }
 
     /* --- RESPONSIVE ADAPTATIONS --- */
-    @media (max-width: 768px) {
+    @media (max-width: 468px) {
       .hero-img-left,
       .hero-img-right {
         width: 90px;
